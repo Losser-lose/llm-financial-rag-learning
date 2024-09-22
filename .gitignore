@@ -165,4 +165,4 @@ cython_debug/
 .DS_Store
 
 # 忽略bs_challenge_financial_14b_dataset文件夹下的所有内容
-./bs_challenge_financial_14b_dataset/
+bs_challenge_financial_14b_dataset
